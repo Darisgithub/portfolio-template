@@ -29,7 +29,7 @@ A modern, high-performance developer portfolio built with **React**, **Tailwind 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Darisgithub/portfolio.git
+git clone https://github.com/Darisgithub/portfolio-template.git
 cd portfolio
 ```
 
